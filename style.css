@@ -306,3 +306,10 @@ nav{
     justify-content:center;
 }
 }
+. author { 
+
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align : center;
+}
